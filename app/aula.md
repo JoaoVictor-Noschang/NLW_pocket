@@ -17,9 +17,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Fases da resolução de um problema
 
-Coletar os dados
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- Coletar os dados
+- Processar os dados (manipular, alterar ...)
+- Apresentar os dados
 
 ## Escopos e variáveis
 
@@ -37,12 +37,14 @@ Apresentar os dados
 - [x] Operar de atribuição de valor [=]
 - [x] Operador de concatenação [+]
 - [x] Operadores de compração: [==], [!=], [<], [<=], [>], [>=]
+- [x] Spred operator: [...]
 
 ## Estrutura de dados:
 
 ### Array: 
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
